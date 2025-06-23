@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: fastapi-mistral
-        image: dhanush789245/fastapi-mistralai-app:c8de5676d95b6fb6a4826ad9d24cc2a525b7c042
+        image: dhanush789245/fastapi-mistralai-app:5cf020957a0034339ade6328853f58d76bf37d66
         ports:
         - containerPort: 8000
         env:
